@@ -28,7 +28,7 @@ export function Footer() {
             <p>2991 Webster Avenue, Bronx, NY, 10458</p>
             <p>Phone: 718-220-8989</p>
             <p>Fax: 718-220-4441</p>
-            <p>Email: luzcontrol@aol.com</p>
+            <p>Email: luzcontrol1436@aol.com</p>
           </div>
         </div>
 
