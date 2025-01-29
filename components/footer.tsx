@@ -11,6 +11,11 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li>
+                <Link href="/" className="hover:text-yellow-400">
+                  Home
+                </Link>
+              </li>
+              <li>
                 <Link href="#services" className="hover:text-yellow-400">
                   Services
                 </Link>
