@@ -58,7 +58,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${FontWorkSans.variable} ${FontArchivo.variable} antialiased`}
+        className={`${FontWorkSans.variable} ${FontArchivo.variable} scroll-smooth antialiased`}
       >
         {children}
         <Toaster />
